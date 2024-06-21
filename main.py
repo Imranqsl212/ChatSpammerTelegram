@@ -3,10 +3,10 @@ from pyrogram.enums import ChatType
 import time
 
 
-api_id = "27302758"
-api_hash = "0c7cbaa6af5715572027ee5861dd1939"
+api_id = ""
+api_hash = ""
 
-text = 'Чек био'
+text = 'text'
 
 chat_ids = [-1001917608732]
 
